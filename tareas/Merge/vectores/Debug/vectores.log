@@ -1,0 +1,7 @@
+﻿  vectores.cpp
+c:\users\javie\desktop\tareas\merge\vectores\vectores.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\javie\desktop\tareas\merge\vectores\vectores.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\javie\desktop\tareas\merge\vectores\vectores.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\javie\desktop\tareas\merge\vectores\vectores.cpp(49): warning C4018: '<': signed/unsigned mismatch
+  vectores.vcxproj -> C:\Users\Javie\Desktop\tareas\Merge\Debug\vectores.exe
+  vectores.vcxproj -> C:\Users\Javie\Desktop\tareas\Merge\Debug\vectores.pdb (Full PDB)
